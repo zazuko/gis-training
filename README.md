@@ -2,6 +2,8 @@
 
 Welcome to python for GIS training. In this course you will earn how to use python, and its libraries to implement your own GIS features.
 
+During the corse, new materials will appear daily in this repository.
+
 ## Scope
 
 The course covers:
