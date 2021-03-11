@@ -1,6 +1,6 @@
 # Exercise 6
 
-**Credit**  
+**Credit**
 Big thanks to Patrick Curran for the idea, and the data.
 
 You will find the data in `MSC_ModelData_vectorized` folder. It consists of:
@@ -36,16 +36,16 @@ The goal of this problem is to create heatmap for humidex and wind speed with bo
 * Repeat all steps for `wind` data.
 
 
-## Problem 2: Report precise values for meteorological stations
+## Problem 2: Report precise values for selected locations
 
 Thus far, we aggregated data into buckets. That's handy when trying to distinguish zones with higher, and lower values.
-However, sometimes you will be interested in knowing a precise value at certain location. Let's now add the humidex and windspeed values for meteorological stations.
+However, sometimes you will be interested in knowing a precise value at certain location. Let's now add the humidex and windspeed values for selected locations.
 
 **Steps**
-* Read list of locations from the file. Store the results in `stations` dataframe.
-* Remove any `stations` outside of the `clip_box`
-* For each station, find humidex and wind speed values. Store the values in `stations` dataframe.
-* Add stations to the map from Problem 1.
+* Read list of locations from the file. Store the results in `locations` dataframe.
+* Remove any `locations` outside of the `clip_box`
+* For each location, find humidex and wind speed values. Store the values in `locations` dataframe.
+* Add location to the map from Problem 1.
 * Use `HoverTool` to the precise humidex and windspeed at the location.
 
 
