@@ -16,7 +16,7 @@ You will find the data in `MSC_ModelData_vectorized` folder. It consists of:
     * `wind_speed_05.geojson` -> `wind`
     * `WxO_Demo_Smaller_Extent.geojson` -> `clip_box`
     * `land_PubStdZone_coarse_unproj.shp` -> `forecast_zones`
-* Clip the `humidex`, `wind` and `forecast_zones` to the boundaries of `clip_box`
+* Clip the `forecast_zones` to the boundaries of `clip_box`
 
 ## Problem 1: Create heatmap for humidex and wind speed
 
