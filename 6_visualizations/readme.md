@@ -1,6 +1,6 @@
 # Exercise 6
 
-*Credit*
+**Credit**  
 Big thanks to Patrick Curran for the idea, and the data.
 
 You will find the data in `MSC_ModelData_vectorized` folder. It consists of:
