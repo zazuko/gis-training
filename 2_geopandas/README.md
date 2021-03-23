@@ -33,7 +33,7 @@ Plot all lines of London Underground on a map.
 - Create a simple map of lines using `.plot()` funtion
 - Create a joint map of lines, and stations.
 
-# Problem 3: Split data by line
+# Problem 3: Split data by line (optional)
 
 Group data together for each metro line. Plot each line and its stations with different color.
 
@@ -51,7 +51,7 @@ Group data together for each metro line. Plot each line and its stations with di
     - Create a `colormap` dictionnary. The keys should correspond to `line`, and values to `colour`
     - Plot all lines, and stations on the same map. For each line, apply the colour from `colormap`
 
-# Problem 4:
+# Problem 4 (optional):
 
 Find the answers to the following questions:
 
