@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "WxO_Demo_Fx_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+		{ "type": "Feature", "properties": 
+			{ "ID": "1", "NAME": "Study Area" }, 
+			"geometry": { "type": "MultiPolygon", "coordinates": [ 
+					[ 
+						[ 
+							[ -83.4191759176551386,41.9863193377405324 ], 
+							[ -75.3801303177490638,41.9863193377405324 ], 
+							[ -75.3801303177490638,45.5141015381290899 ], 
+							[ -83.4191759176551386,45.5141015381290899 ], 
+							[ -83.4191759176551386,41.9863193377405324 ] 
+						] 
+					] 
+				] 
+				} 
+		}
+	]
+}
